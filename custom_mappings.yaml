@@ -41,10 +41,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112479
-  - title: "Azur Lane"
+  - title: "Azur Lane the Animation"
     seasons:
       - season: 1
         anilist-id: 104159
+  - title: "Bakemonogatari"
+    seasons:
+      - season: 1
+        anilist-id: 5081
   - title: "Beastars"
     seasons:
       - season: 1
@@ -64,23 +68,23 @@ entries:
   - title: "Black Cat"
     seasons:
       - season: 1
-      anilist-id: 68
+        anilist-id: 68
   - title: "Blend S"
     seasons:
       - season: 1
-      anilist-id: 97994
-  - title: "Blood C"
+        anilist-id: 97994
+  - title: "Blood-C"
     seasons:
       - season: 1
-      anilist-id: 10490
+        anilist-id: 10490
   - title: "BNA"
     seasons:
       - season: 1
-      anilist-id: 110354
+        anilist-id: 110354
   - title: "Boku dake ga Inai Machi"
     seasons:
       - season: 1
-      anilist-id: 21234
+        anilist-id: 21234
   - title: "Boku no Hero Academia"
     seasons:
       - season: 1
@@ -93,12 +97,12 @@ entries:
         anilist-id: 104276
       - season: 5
         anilist-id: 117193
-  - title: "Bokutachi wa Bankyou ga Dekinai"
+  - title: "Bokutachi wa Benkyou ga Dekinai"
     seasons:
       - season: 1
         anilist-id: 103900
-# Castlevania
-  - title: "CHAOS CHILD"
+  # Castlevania
+  - title: "CHAOS;CHILD"
     seasons:
       - season: 1
         anilist-id: 21126
@@ -124,7 +128,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 2167
-  - title: "Code Geass Hangyaku no Lelouch"
+  - title: "Code Geass: Hangyaku no Lelouch"
     seasons:
       - season: 1
         anilist-id: 1575
@@ -134,7 +138,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 1
-  - title: "Darling in the FranXX"
+  - title: "Darling in the Franxx"
     seasons:
       - season: 1
         anilist-id: 99423
@@ -186,7 +190,7 @@ entries:
         anilist-id: 6746
       - season: Specials
         anilist-id: 8408
-  - title: "En'en no Shouboutai"
+  - title: "En'en no Shouboutai Ni no Shou"
     seasons:
       - season: 1
         anilist-id: 105310
@@ -226,7 +230,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20994
-# Gensou Mangekyou: The Memories of Phantasm
+  # 2hu gensou
   - title: "Go-Toubun no Hanayome"
     seasons:
       - season: 1
@@ -251,7 +255,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 10793
-  - title: "Hagane no Renkinjutsushi"
+  - title: "Hagane no Renkinjutsushi (2009)"
     seasons:
       - season: 1
         anilist-id: 5114
@@ -267,6 +271,10 @@ entries:
         anilist-id: 97863
       - season: Specials
         anilist-id: 98878
+  - title: "Hanamonogatari: Suruga Devil"
+    seasons:
+        - season: 1
+          anilist-id: 20593
   - title: "Hellsing (2006)"
     seasons:
       - season: 1
@@ -295,17 +303,17 @@ entries:
         anilist-id: 20987
       - season: 2
         anilist-id: 98572
-  - title: "Hunter x Hunter"
+  - title: "Hunter x Hunter (1999)"
     seasons:
       - season: 1
         anilist-id: 11061
-  - title: "Imouto sae Ireba li"
+  - title: "Imouto sae Ireba Ii."
     seasons:
       - season: 1
         anilist-id: 98596
       - season: Specials
         anilist-id: 102946
-  - title: "IS Infinite Stratos"
+  - title: "IS: Infinite Stratos"
     seasons:
       - season: 1
         anilist-id: 9041
@@ -321,11 +329,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 110270
-  - title: "ISLAND"
+  - title: "Island"
     seasons:
       - season: 1
         anilist-id: 21712
-  - title: "Itai No Wa Iya Nano De Bougyoryoku Ni Kyokufuri Shitai To Omoimasu"
+  - title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
     seasons:
       - season: 1
         anilist-id: 106479
@@ -355,7 +363,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113813
-  - title: "Karakai Jouzu No Takagi-san"
+  - title: "Karakai Jouzu no Takagi-san"
     seasons:
       - season: 1
         anilist-id: 99468
@@ -363,7 +371,7 @@ entries:
         anilist-id: 107068
       - season: Specials
         anilist-id: 101426
-  - title: "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka"
+  - title: "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?"
     seasons:
       - season: 1
         anilist-id: 107961
@@ -373,7 +381,7 @@ entries:
         anilist-id: 21639
       - season: Specials
         anilist-id: 98833
-  - title: "Kill la kill"
+  - title: "Kill la Kill"
     seasons:
       - season: 1
         anilist-id: 18679
@@ -389,6 +397,7 @@ entries:
         anilist-id: 16732
       - season: 2
         anilist-id: 20654
+  # Kizumonogatari moved to Movies
   - title: "Kobayashi-san Chi no Maidragon"
     seasons:
       - season: 1
@@ -411,6 +420,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21196
+  - title: "Koyomimonogatari"
+    seasons:
+      - season: 1
+        anilist-id: 21520
   - title: "Kurokami The Animation"
     seasons:
       - season: 1
@@ -473,6 +486,10 @@ entries:
         anilist-id: 106967
       - season: Specials
         anilist-id: 110738
+  - title: "Monogatari Series: Second Season"
+    seasons:
+      - season: 1
+        anilist-id: 17074
   - title: "Monster Musume no Iru Nichijou"
     seasons:
       - season: 1
@@ -493,7 +510,11 @@ entries:
         anilist-id: 20595
       - season: Specials
         anilist-id: 20526
-  - title: "Netoge no Yome wa Onnanoko Janai to Omotta"
+  - title: "Nekomonogatari (Kuro): Tsubasa Family"
+    seasons:
+      - season: 1
+        anilist-id: 15689
+  - title: "Netoge no Yome wa Onnanoko ja Nai to Omotta?"
     seasons:
       - season: 1
         anilist-id: 21290
@@ -515,6 +536,10 @@ entries:
         anilist-id: 20876
       - season: Specials
         anilist-id: 20728
+  - title: "Nisemonogatari"
+    seasons:
+      - season: 1
+        anilist-id: 11597
   - title: "No Game No Life"
     seasons:
       - season: 1
@@ -537,8 +562,6 @@ entries:
         anilist-id: 97857
       - season: 2
         anilist-id: 100133
-      - season: 3
-        anilist-id: 116147
   - title: "Ookami to Koushinryou"
     seasons:
       - season: 1
@@ -561,6 +584,14 @@ entries:
         anilist-id: 98437
       - season: 3
         anilist-id: 101474
+  - title: "Owarimonogatari"
+    seasons:
+      - season: 1
+        anilist-id: 21262
+  - title: "Owarimonogatari 2nd Season"
+    seasons:
+      - season: 1
+        anilist-id: 21745
   - title: "Pingu in the City"
     seasons:
       - season: 1
@@ -569,7 +600,7 @@ entries:
     seasons:
       - season: Specials
         anilist-id: 10711
-# Pokemon
+  # Pokemon
   - title: "Poputepipikku"
     seasons:
       - season: 1
@@ -616,7 +647,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20047
-  - title: "Sakurasou no Pet na Kanojo"
+  - title: "Sakura-sou no Pet na Kanojo"
     seasons:
       - season: 1
         anilist-id: 13759
@@ -688,15 +719,15 @@ entries:
         anilist-id: 20672
       - season: Specials
         anilist-id: 21276
-  - title: "Steins Gate"
+  - title: "Steins;Gate"
     seasons:
       - season: 1
         anilist-id: 9253
-  - title: "Steins Gate 0"
+  - title: "Steins;Gate 0"
     seasons:
       - season: 1
         anilist-id: 21127
-  - title: "Suzumiya Haruhi no Yuuutsu"
+  - title: "Suzumiya Haruhi no Yuuutsu (2009)"
     seasons:
       - season: 1
         anilist-id: 849
@@ -758,13 +789,17 @@ entries:
         anilist-id: 4224
       - season: Specials
         anilist-id: 11553
-# 2hu Niji Sousaku Doujin Anime: Musou Kakyou
+  # 2hu Musou Kakyou
   - title: "Tsuki ga Kirei"
     seasons:
       - season: 1
         anilist-id: 98202
       - season: Specials
         anilist-id: 100305
+  - title: "Tsukimonogatari: Yotsugi Doll"
+    seasons:
+      - season: 1
+        anilist-id: 20918
   - title: "Tsurezure Children"
     seasons:
       - season: 1
@@ -787,7 +822,7 @@ entries:
         anilist-id: 102680
       - season: Specials
         anilist-id: 107138
-  - title: "Yagata Kimi ni Naru"
+  - title: "Yagate Kimi ni Naru"
     seasons:
       - season: 1
         anilist-id: 101573
@@ -799,7 +834,7 @@ entries:
         anilist-id: 20698
       - season: 3
         anilist-id: 108489
-  - title: "Yesterday wo Utatte"
+  - title: "Yesterday o Utatte"
     seasons:
       - season: 1
         anilist-id: 109020
@@ -829,25 +864,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20661
+  - title: "Zoku Owarimonogatari"
+    seasons:
+      - season: 1
+        anilist-id: 100815
   - title: "Zombieland Saga"
     seasons:
       - season: 1
         anilist-id: 103871
-      - season: 2
+      - season: 1
         anilist-id: 110733
-
-########
-# TODO #
-########
-# Monogatari 
-#
-# Bakemonogatari^1^5081
-# Hanamonogatari^1^20593
-# Koyomimonogatari^1^21520
-# Monogatari Series Second Season^1^17074
-# Nekomonogatari Kuro^1^15689
-# Nisemonogatari^1^11597
-# Owarimonogatari^1^21262
-# Owarimonogatari 2nd Season^1^21745
-# Tsukimonogatari^1^20918
-# Zoku Owarimonogatari^1^100815
