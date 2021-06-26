@@ -146,6 +146,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 1
+  - title: "Daitoshokan no Hitsujikai"
+    seasons:
+      - season: 1
+        anilist-id: 17827
   - title: "Darling in the Franxx"
     seasons:
       - season: 1
@@ -919,6 +923,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21613
+  - title: "Yuragi-sou no Yuuna-san"
+    seasons:
+      - season: 1
+        anilist-id: 100483
   - title: "Yuru Camp"
     seasons:
       - season: 1
