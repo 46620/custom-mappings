@@ -55,6 +55,10 @@ entries:
         anilist-id: 107660
       - season: 2
         anilist-id: 114194
+  - title: "Berserk"
+    seasons:
+      - season: 1
+        anilist-id: 21560
   - title: "Bishoujo Senshi Sailor Moon"
     seasons:
       - season: 1
@@ -119,7 +123,11 @@ entries:
       - season: 2
         anilist-id: 18671
       - season: Specials
+        anilist-id: 15687
+        start: 1
+      - season: Specials
         anilist-id: 15879
+        start: 7
   - title: "Citrus"
     seasons:
       - season: 1
@@ -156,6 +164,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 6880
+  - title: "Death Parade"
+    seasons:
+      - season: 1
+        anilist-id: 20931
+      - season: Specials
   - title: "Death Note"
     seasons:
       - season: 1
@@ -307,12 +320,30 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11061
+  - title: "Hyouka"
+    seasons:
+      - season: 1
+        anilist-id: 12189
   - title: "Imouto sae Ireba Ii."
     seasons:
       - season: 1
         anilist-id: 98596
       - season: Specials
         anilist-id: 102946
+  - title: "Initial D"
+    seasons:
+      - season: 1
+        anilist-id: 185
+      - season: 2
+        anilist-id: 186
+      - season: 3
+        anilist-id: 187
+      - season: 4
+        anilist-id: 18
+      - season: 5
+        anilist-id: 15059
+      - season: 6
+        anilist-id: 19613
   - title: "IS: Infinite Stratos"
     seasons:
       - season: 1
@@ -339,6 +370,14 @@ entries:
         anilist-id: 106479
       - season: 2
         anilist-id: 116867
+  - title: "Joshiraku"
+    seasons:
+      - season: 1
+        anilist-id: 12679
+  - title: "K"
+    seasons:
+      - season: 1
+        anilist-id: 14467
   - title: "K-ON!"
     seasons:
       - season: 1
@@ -351,6 +390,10 @@ entries:
         anilist-id: 101921
       - season: 2
         anilist-id: 112641
+  - title: "Kaifuku Jutsushi no Yarinaoshi"
+    seasons:
+      - season: 1
+        anilist-id: 113425
   - title: "Kakegurui"
     seasons:
       - season: 1
@@ -576,6 +619,10 @@ entries:
         anilist-id: 13659
       - season: Specials
         anilist-id: 10020
+  - title: "Ore Wo Suki Nano Wa Omae Dake Ka Yo"
+    seasons:
+      - season: 1
+        anilist-id: 104464
   - title: "Overlord"
     seasons:
       - season: 1
@@ -615,6 +662,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98505
+  - title: "ReLife"
+    seasons:
+      - season: 1
+        anilist-id: 21049
   - title: "Re:Zero kara Hajimeru Isekai Seikatsu"
     seasons:
       - season: 1
@@ -671,6 +722,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 106051
+  - title: "Senyoku No Sigrdrifa"
+    seasons:
+      - season: 1
+        anilist-id: 116173
   - title: "Sewayaki Kitsune no Senko-san"
     seasons:
       - season: 1
@@ -790,6 +845,12 @@ entries:
       - season: Specials
         anilist-id: 11553
   # 2hu Musou Kakyou
+  - title: "Tsubasa Chronicle"
+    seasons:
+      - season: 1
+        anilist-id: 177
+      - season: 2
+        anilist-id: 969
   - title: "Tsuki ga Kirei"
     seasons:
       - season: 1
@@ -804,6 +865,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98291
+  - title: "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?"
+    seasons:
+      - season: 1
+        anilist-id: 104723
+      - season: Specials
+        anilist-id: 110445
   - title: "Ueno-san wa Bukiyou"
     seasons:
       - season: 1
@@ -812,11 +879,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 115113
+      - season: 2
+        anilist-id: 124395
   - title: "Violet Evergarden"
     seasons:
       - season: 1
         anilist-id: 21827
-  - title: "Watashi ni Tenshi ga Maiorita!"
+  - title: "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
+    seasons:
+      - season: 1
+        anilist-id: 16742
+      - season: Specials
+        anilist-id: 20453
+  - title: "Watashi ni Tenshi ga Maiorita!" 
     seasons:
       - season: 1
         anilist-id: 102680
@@ -872,5 +947,5 @@ entries:
     seasons:
       - season: 1
         anilist-id: 103871
-      - season: 1
+      - season: 2
         anilist-id: 110733
