@@ -913,6 +913,10 @@ entries:
         anilist-id: 20698
       - season: 3
         anilist-id: 108489
+  - title: "Yamada-kun to 7-nin no Majo"
+    seasons:
+      - season: 1
+        anilist-id: 20966
   - title: "Yesterday o Utatte"
     seasons:
       - season: 1
