@@ -239,6 +239,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 356
+  - title: "Fate/stay night: Unlimited Blade Works"
+    seasons:
+      - season: 1
+        anilist-id: 19603
+      - season: 2
+        anilist-id: 20792
+      - season: Specials
+        anilist-id: 21318
   - title: "Fate/Zero"
     seasons:
       - season: 1
