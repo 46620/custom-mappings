@@ -1,4 +1,5 @@
 entries:
+#A
   - title: "Aiura"
     seasons:
       - season: 1
@@ -45,6 +46,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104159
+#B
   - title: "Bakemonogatari"
     seasons:
       - season: 1
@@ -105,6 +107,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 103900
+#C
   # Castlevania
   - title: "CHAOS;CHILD"
     seasons:
@@ -146,6 +149,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 1
+#D
   - title: "Daitoshokan no Hitsujikai"
     seasons:
       - season: 1
@@ -207,6 +211,7 @@ entries:
         anilist-id: 6746
       - season: Specials
         anilist-id: 8408
+#E
   - title: "En'en no Shouboutai Ni no Shou"
     seasons:
       - season: 1
@@ -219,10 +224,30 @@ entries:
         anilist-id: 21685
       - season: Specials
         anilist-id: 100523
+#F
   - title: "Fate/Apocrypha"
     seasons:
       - season: 1
         anilist-id: 98035
+  - title: "Fate/kaleid liner Prisma☆Illya"
+    seasons:
+      - season: 1
+        anilist-id: 14829
+      - season: Specials
+        anilist-id: 19109
+  - title: "Fate/stay night"
+    seasons:
+      - season: 1
+        anilist-id: 356
+  - title: "Fate/Zero"
+    seasons:
+      - season: 1
+        anilist-id: 10087
+      - season: 2
+        anilist-id: 11741
+      - season: Specials
+        anilist-id: 13263
+#G
   - title: "Gabriel Dropout"
     seasons:
       - season: 1
@@ -272,6 +297,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 10793
+#H
   - title: "Hagane no Renkinjutsushi (2009)"
     seasons:
       - season: 1
@@ -296,6 +322,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 777
+  - title: "Hige wo Soru. Soshite Joshikousei wo Hirou."
+    seasons:
+      - season: 1
+        anilist-id: 114232
   - title: "Highschool DxD"
     seasons:
       - season: 1
@@ -328,6 +358,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 12189
+#I
   - title: "Imouto sae Ireba Ii."
     seasons:
       - season: 1
@@ -374,10 +405,12 @@ entries:
         anilist-id: 106479
       - season: 2
         anilist-id: 116867
+#J
   - title: "Joshiraku"
     seasons:
       - season: 1
         anilist-id: 12679
+#K
   - title: "K"
     seasons:
       - season: 1
@@ -483,6 +516,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 18153
+#L
   - title: "Little Witch Academia"
     seasons:
       - season: 1
@@ -499,6 +533,7 @@ entries:
         anilist-id: 1887
       - season: Specials
         anilist-id: 4472
+#M
   - title: "Machikado Mazoku"
     seasons:
       - season: 1
@@ -557,6 +592,7 @@ entries:
         anilist-id: 20595
       - season: Specials
         anilist-id: 20526
+#N
   - title: "Nekomonogatari (Kuro): Tsubasa Family"
     seasons:
       - season: 1
@@ -599,6 +635,7 @@ entries:
         anilist-id: 17549
       - season: 2
         anilist-id: 20694
+#O
   - title: "One Piece"
     seasons:
       - season: 1
@@ -643,6 +680,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21745
+#P
   - title: "Pingu in the City"
     seasons:
       - season: 1
@@ -666,6 +704,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98505
+#R
   - title: "ReLife"
     seasons:
       - season: 1
@@ -686,6 +725,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21700
+#S
   - title: "Sabagebu!"
     seasons:
       - season: 1
@@ -796,6 +836,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11757
+#T
   - title: "Tate no Yuusha no Nariagari"
     seasons:
       - season: 1
@@ -875,6 +916,7 @@ entries:
         anilist-id: 104723
       - season: Specials
         anilist-id: 110445
+#U
   - title: "Ueno-san wa Bukiyou"
     seasons:
       - season: 1
@@ -885,10 +927,12 @@ entries:
         anilist-id: 115113
       - season: 2
         anilist-id: 124395
+#V
   - title: "Violet Evergarden"
     seasons:
       - season: 1
         anilist-id: 21827
+#W
   - title: "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
     seasons:
       - season: 1
@@ -901,6 +945,7 @@ entries:
         anilist-id: 102680
       - season: Specials
         anilist-id: 107138
+#Y
   - title: "Yagate Kimi ni Naru"
     seasons:
       - season: 1
@@ -947,6 +992,7 @@ entries:
         anilist-id: 12403
       - season: 3
         anilist-id: 21088
+#Z
   - title: "Zankyou no Terror"
     seasons:
       - season: 1
