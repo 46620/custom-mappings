@@ -212,6 +212,10 @@ entries:
       - season: Specials
         anilist-id: 8408
 #E
+  - title: "Emiya-san Chi no Kyou no Gohan"
+    seasons:
+      - season: 1
+        anilist-id: 100855
   - title: "En'en no Shouboutai Ni no Shou"
     seasons:
       - season: 1
