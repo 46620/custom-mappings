@@ -692,10 +692,6 @@ entries:
       - season: 1
         anilist-id: 21745
 #P
-  - title: "Pingu in the City"
-    seasons:
-      - season: 1
-        anilist-id: 99994
   - title: "Plastic Nee-san"
     seasons:
       - season: Specials
@@ -823,6 +819,10 @@ entries:
         anilist-id: 534
       - season: 2
         anilist-id: 535
+  - title: "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita"
+    seasons:
+      - season: 1
+        anilist-id: 112608
   - title: "Sora no Method"
     seasons:
       - season: 1
