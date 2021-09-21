@@ -425,6 +425,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 12679
+      - season: Specials
+        anilist-id: 15591
 #K
   - title: "K"
     seasons:
@@ -464,6 +466,8 @@ entries:
         anilist-id: 99468
       - season: 2
         anilist-id: 107068
+      - season: 3
+        anilist-id: 138424
       - season: Specials
         anilist-id: 101426
   - title: "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?"
@@ -555,6 +559,10 @@ entries:
         anilist-id: 107490
       - season: Specials
         anilist-id: 113302
+  - title: "Mala Nüpei"
+    seasons:
+      - season: 1
+        anilist-id: 116848
   - title: "Maoyuu Maou Yuusha"
     seasons:
       - season: 1
@@ -667,6 +675,8 @@ entries:
         anilist-id: 2966
       - season: 2
         anilist-id: 5341
+      - season: Specials
+        anilist-id: 6007
   - title: "Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
     seasons:
       - season: 1
@@ -964,6 +974,16 @@ entries:
         anilist-id: 102680
       - season: Specials
         anilist-id: 107138
+  - title: "Working!!" 
+    seasons:
+      - season: 1
+        anilist-id: 6956
+      - season: 2
+        anilist-id: 10521
+      - season: 3
+        anilist-id: 20819
+      - season: Specials
+        anilist-id: 21384
 #Y
   - title: "Yagate Kimi ni Naru"
     seasons:
