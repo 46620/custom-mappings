@@ -692,6 +692,10 @@ entries:
       - season: 1
         anilist-id: 21745
 #P
+  - title: "Pingu in the City"
+    seasons:
+      - season: 1
+        anilist-id: 99994
   - title: "Plastic Nee-san"
     seasons:
       - season: Specials
