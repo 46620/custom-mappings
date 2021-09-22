@@ -847,6 +847,10 @@ entries:
         anilist-id: 20672
       - season: Specials
         anilist-id: 21276
+  - title: "Star Wars: Visions"
+    seasons:
+      - season: 1
+        anilist-id: 138060
   - title: "Steins;Gate"
     seasons:
       - season: 1
