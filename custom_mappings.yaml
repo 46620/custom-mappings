@@ -406,6 +406,12 @@ entries:
         anilist-id: 101004
       - season: 2
         anilist-id: 117448
+  - title: "Isekai Quartet"
+    seasons:
+      - season: 1
+        anilist-id: 104454
+      - season: 2
+        anilist-id: 110178
   - title: "Ishuzoku Reviewers"
     seasons:
       - season: 1
